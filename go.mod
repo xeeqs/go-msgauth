@@ -1,4 +1,4 @@
-module github.com/ooweyy/go-msgauth
+module github.com/dschp/go-msgauth
 
 go 1.25.5
 
